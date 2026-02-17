@@ -259,6 +259,9 @@ h1 .span2 {
     height: 4rem;
     font-size: 1rem;
   }
+  #instructions-btn {
+    display: none
+  }
 }
 
 #instructions-btn {
